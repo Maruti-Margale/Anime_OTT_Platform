@@ -1,0 +1,836 @@
+[
+  {
+    "title": "Most Popular Anime",
+    "images": [
+      {
+        "imageUrl": "/images/Most Popular/naruto.gif",
+        "imageTitle": "Naruto",
+          "Japanese": "ナルト- 疾風伝",
+        "description": "Follows Naruto Uzumaki's quest to become Hokage, navigating through personal struggles, facing powerful enemies and,",
+               "desc": "ultimately striving for peace in the ninja world, all while cherishing bonds of friendship and loyalty forged along the way.",
+           "malScore": "8.15",
+              "Aired": "Feb 15, 2007 to Mar 23, 2017",
+             "Status": "Finished Airing",
+          "Producers": "TV Tokyo, Aniplex, KSS, Rakuonsha, TV Tokyo Music, Shueisha, Studio Pierrot, Viz Media",
+            "Trailer": "https://aniwatch.to/watch/naruto-shippuden-355?ep=7882"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Bleach.gif",
+        "imageTitle": "Bleach",
+          "Japanese": "ブリーチ",
+        "description": "Follows Ichigo Kurosaki's journey as a Soul Reaper, battling Hollows and uncovering dark secrets to protect both the living and spirit worlds,",
+        "desc"       : "blending action-packed battles with themes of duty and sacrifice in a captivating supernatural adventure.",
+           "malScore": "7.9",
+              "Aired": "Oct 5, 2004 to Mar 27, 2012",
+             "Status": "Finished Airing",
+          "Producers":"TV Tokyo, Aniplex, Dentsu, TV Tokyo Music, Studio Kelmadick, Shueisha, Studio Pierrot, Viz Media",
+          "Trailer": "https://aniwatch.to/watch/bleach-806?ep=13793"
+      },
+      {
+        "imageUrl": "/images/Most Popular/one piece.gif",
+        "imageTitle": "One Piece",
+        "Japanese": "ワンピース",
+        "description": "It is an epic tale of Monkey D. Luffy and his pirate crew as they journey across the seas in search of the legendary treasure,"      ,
+          "desc"     : "One Piece, encountering fierce battles and forging unbreakable bonds along the way.",
+        "malScore": "8.62",
+        "Aired": "Oct 20, 1999 to _",
+        "Status": "Ongoing",
+        "Producers":"Fuji TV, TAP, Shueisha, Toei Animation, Funimation, 4Kids Entertainment",
+        "Trailer"  :"https://aniwatch.to/watch/one-piece-100?ep=2142"
+      },
+      {
+        "imageUrl": "/images/Most Popular/dragon ball super.gif",
+        "imageTitle": "Dragon Ball Super",
+        "Japanese": "ドラゴンボール超（スーパー）",
+        "description": "Follows Goku and his friends as they face new powerful foes, embark on epic adventures across the universe, and uncover the secrets,",
+        "desc"       : "of various powerful transformations and techniques, all while striving to protect the Earth and maintain peace in the multiverse.",
+        "malScore": "7.46",
+        "Aired": "Jul 5, 2015 to Mar 25, 2018",
+        "Status": "Finished Airing",
+        "Producers":"Yomiko Advertising, Fuji TV, Toei Animation, Funimation",
+        "Trailer"  :"https://aniwatch.to/watch/dragon-ball-super-1692?ep=22219"
+      },
+      {
+        "imageUrl": "/images/Most Popular/AOT.gif",
+        "imageTitle": "Attack On Titan",
+        "Japanese": "進撃の巨人",
+        "description": "It is a riveting anime that follows humanity's struggle for survival against giant humanoid creatures known as Titans, as protagonist Eren Yeager and his friends,",
+        "desc"       : "join the fight within the last remaining stronghold, exploring themes of sacrifice, survival, and the mystery behind the Titans' existence.",
+        "malScore": "8.52",
+        "Aired": "Apr 7, 2013 to Sep 29, 2013",
+        "Status": " Finished Airing",
+        "Producers":"Production I.G, Dentsu, Mainichi Broadcasting System, Pony Canyon, Kodansha, Mad Box, Pony Canyon Enterprise, Wit Studio, Funimation",
+        "Trailer"  :"https://aniwatch.to/watch/attack-on-titan-112?ep=3303"
+      },
+      {
+        "imageUrl": "/images/Most Popular/DEATH NOTE.gif",
+        "imageTitle": "Death Note",
+        "Japanese": " デスノート",
+        "description": "It is a riveting anime centered around Light Yagami, a high school student who gains a deadly power to kill by writing names in a supernatural notebook,"      ,
+          "desc"     : "sparking a high-stakes battle of wits with the mysterious detective L, exploring themes of morality and the consequences of absolute power.",
+        "malScore": "8.63",
+        "Aired": "Oct 4, 2006 to Jun 27, 2007",
+        "Status": " Finished Airing",
+        "Producers":"VAP, Konami, Ashi Production, Nippon Television Network, Shueisha, Madhouse, Viz Media",
+        "Trailer": "https://aniwatch.to/watch/death-note-60?ep=1464"
+      },
+      {
+        "imageUrl": "/images/Most Popular/demon slayer.gif",
+        "imageTitle": "Demon Slayer: Kimetsu no Yaiba",
+        "Japanese": "鬼滅の刃",
+        "description": "Follows Tanjiro Kamado, a young demon slayer, on his quest to avenge his family and cure his sister Nezuko, who has been turned into a demon.",
+        "desc"       : "With breathtaking animation, intense battles, and a captivating story and explore themes of perseverance, redemption.",
+        "malScore": "8.57",
+        "Aired": "Apr 6, 2019 to Sep 28, 2019",
+        "Status": "Finished Airing",
+        "Producers":"ufotable, Aniplex of America",
+        "Trailer"  :"https://aniwatch.to/watch/demon-slayer-kimetsu-no-yaiba-47?ep=1279"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Code Geass.gif",
+        "imageTitle": "Code Geass",
+        "Japanese": "コードギアス 反逆のルルーシュ",
+        "description": "It is a gripping mecha anime set in an alternate universe where Lelouch vi Britannia, a young prince with the power of Geass, orchestrates a rebellion against,",
+        "desc"       : "the oppressive Britannian Empire, blending political intrigue, strategic warfare, and moral dilemmas in a thrilling tale of revolution and power.",
+        "malScore": "8.9",
+        "Aired": "Oct 6, 2006 to Jul 29, 2007",
+        "Status": " Finished Airing",
+        "Producers":"Bandai Entertainment, Sony Music Entertainment, Hakuhodo DY Media Partners, Sunrise, Funimation",
+        "Trailer"  :"https://aniwatch.to/watch/code-geass-lelouch-of-the-rebellion-41?ep=1158"
+      },
+      {
+        "imageUrl": "/images/Most Popular/bungo stray dogs.gif",
+        "imageTitle": "Bungo Stray Dogs",
+        "Japanese": "文豪ストレイドッグス",
+        "description": "Follows Atsushi Nakajima's journey into the world of supernatural mysteries as he joins the Armed Detective Agency, showcasing a blend of action-packed encounters and,",
+        "desc"       : "character-driven storytelling set against the backdrop of literary inspirations and themes of identity and camaraderie.",
+        "malScore": "7.78",
+        "Aired": " Apr 7, 2016 to Jun 23, 2016",
+        "Status": "Finished Airing",
+        "Producers":"Lantis, Movic, KlockWorx, Bandai Namco Live Creative, Glovision, Lawson HMV Entertainment, Sony PCL, Bones, Funimation, Crunchyroll",
+        "Trailer"  : "https://aniwatch.to/watch/bungo-stray-dogs-858?ep=14933"
+      },
+      {
+        "imageUrl": "/images/Most Popular/One punch man.gif",
+        "imageTitle": "One Punch Man",
+        "Japanese": "ワンパンマン",
+        "description": "One Punch Man follows the comedic journey of Saitama, a hero who can defeat any opponent with a single punch, as he seeks excitement and recognition in a world full of powerful monsters and heroes.",
+        "malScore": "8.52",
+        "Aired": "Oct 5, 2015 to Dec 21, 2015",
+        "Status": "Finished Airing",
+        "Producers":" TV Tokyo, Bandai Visual, Lantis, Asatsu DK, Banpresto, Good Smile Company, Shueisha, JR East Marketing & Communications, Madhouse, Viz Media"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Tokyo Ghoul.gif",
+        "imageTitle": "Tokyo Ghoul",
+        "Japanese": "東京喰種√A",
+        "description": "Tokyo Ghoul explores the struggle of Kaneki, a young man turned half-ghoul, as he navigates the complex and perilous coexistence between humans and flesh-eating ghouls in Tokyo",
+        "malScore": " 7.11",
+        "Aired": "Jan 9, 2015 to Mar 27, 2015",
+        "Status": "Finished Airing",
+        "Producers":" Marvelous AQL, Shueisha, Studio Pierrot, Funimation"
+      },
+      {
+        "imageUrl": "/images/Most Popular/MHA.gif",
+        "imageTitle": "My Hero Academia",
+        "Japanese": "僕のヒーローアカデミア",
+        "description": "My Hero Academia follows the journey of Izuku Midoriya and his fellow students at U.A. High School as they train to become heroes in a world where superpowers, or Quirks, are the norm.",
+        "malScore": "8.18",
+        "Aired": "Apr 3, 2016 to Jun 26, 2016",
+        "Status": "Finished Airing",
+        "Producers":" Dentsu, Mainichi Broadcasting System, Movic, TOHO animation, Shueisha, Bones, Funimation"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Tokyo Revengers.gif",
+        "imageTitle": "Tokyo Revengers",
+        "Japanese": "東京リベンジャーズ",
+        "description": "Tokyo Revengers tells the story of Takemichi Hanagaki, who discovers a time-travel ability and attempts to change his life by preventing tragic events in the past.",
+        "malScore": " 8.27",
+        "Aired": " Apr 11, 2021 to ?",
+        "Status": "Finished Airing",
+        "Producers":" LIDENFILMS, Pony Canyon"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Jojo's Bizarre Adventure.gif",
+        "imageTitle": "Jojo's Bizarre Adventure",
+        "Japanese": "ジョジョの奇妙な冒険",
+        "description": "Jojo's Bizarre Adventure follows the multi-generational exploits of the Joestar family as they confront supernatural threats using unique powers and combat the immortal vampire Dio.",
+        "malScore": "?",
+        "Aired": "?",
+        "Status": "Finished Airing",
+        "Producers":"David Production Producers: Yomiko Advertising"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Black Clover.gif",
+        "imageTitle": "Black Clover",
+        "Japanese": "ブラッククローバー",
+        "description": "Black Clover follows Asta, a magicless boy with dreams of becoming the Wizard King, as he strives to overcome challenges and adversaries in a world where magic is everything.",
+        "malScore": "7.29",
+        "Aired": "Oct 3, 2017 to Mar 30, 202",
+        "Status": " Finished Airing",
+        "Producers":" TV Tokyo, Avex Pictures, Shueisha, Studio Pierrot, Funimation, Crunchyroll"
+      },
+      {
+        "imageUrl": "/images/Most Popular/JJK.gif",
+        "imageTitle": "Jujutsu Kaisen",
+        "Japanese": " 呪術廻戦",
+        "description": "Jujutsu Kaisen follows Yuji Itadori as he joins a secret organization to battle curses and protect humanity using cursed techniques in this action-packed supernatural anime.",
+        "malScore": "8.14",
+        "Aired": "Oct 3, 2020 to Mar 27, 2021",
+        "Status": "Finished Airing",
+        "Producers":" TOHO animation, Shueisha, dugout, MAPPA"
+      },
+      {
+        "imageUrl": "/images/Most Popular/HxH.gif",
+        "imageTitle": "Hunter x Hunter",
+        "Japanese": "（ハンター×ハンター）",
+        "description": "Hunter x Hunter follows Gon Freecss on his quest to become a Hunter and find his elusive father, exploring a world full of diverse characters, dangerous creatures, and complex challenges.",
+        "malScore": "8.4",
+        "Aired": " Oct 16, 1999 to Mar 31, 2001",
+        "Status": "Finished Airing",
+        "Producers":" Fuji TV, Nippon Animation, Viz Media"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Fullmetal Alchemist.gif",
+        "imageTitle": "Fullmetal Alchemist: Brotherhood",
+        "Japanese": "鋼の錬金術師",
+        "description": "Fullmetal Alchemist follows the Elric brothers' quest for the Philosopher's Stone as they navigate a world of alchemy, war, and moral dilemmas in search of redemption.",
+        "malScore": "9.15",
+        "Aired": "Apr 5, 2009 to Jul 4, 2010",
+        "Status": " Finished Airing",
+        "Producers":" Aniplex, Square Enix, Mainichi Broadcasting System, Studio Moriken, Bones, Funimation, Aniplex of America"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Fire Force.gif",
+        "imageTitle": "Fire Force",
+        "Japanese": " 炎炎ノ消防隊",
+        "description": "Fire Force follows a team of firefighters with pyrokinetic abilities as they combat infernal beings and unravel a mystery surrounding spontaneous human combustion in a blazing, action-packed world",
+        "malScore": " 7.72",
+        "Aired": "Jul 6, 2019 to Dec 28, 2019",
+        "Status": " Finished Airing",
+        "Producers":" Mainichi Broadcasting System, Kodansha, bilibili, DMM pictures, DMM Music, David Production, Funimation"
+      },
+      {
+        "imageUrl": "/images/Most Popular/gabimaru-anime.gif",
+        "imageTitle": "Hell's Paradise: Jigokuraku",
+        "Japanese": "地獄楽",
+        "description": "Jigokuraku (Hell's Paradise) unfolds a thrilling tale of a perilous island quest where condemned criminals seek immortality, facing supernatural challenges and their own pasts.",
+        "malScore": "8.45",
+        "Aired": "Apr 1, 2023 to Jul 1, 2023",
+        "Status": "Finished Airing",
+        "Producers":" Shueisha, Twin Engine"
+      },
+      {
+        "imageUrl": "/images/Most Popular/Berserk.gif",
+        "imageTitle": "Berserk",
+        "Japanese": "ベルセルク 黄金時代篇",
+        "description": "The Berserk: Golden Age Arc depicts the dark and brutal journey of Guts as he battles through a medieval world filled with demons, betrayal, and his relentless pursuit of revenge",
+        "malScore": "?",
+        "Aired": "Oct 2, 2022 to Dec 25, 2022",
+        "Status": " Finished Airing",
+        "Producers":" Aniplex"
+      }
+
+    ]
+  },
+  {
+    "title": "Trending Anime",
+    "images": [
+      {
+        "imageUrl": "/images/Most Watched/haikyuu.jpeg",
+        "imageTitle": "Haikyuu!!",
+        "Japanese": "ハイキュー!!",
+        "description": "It is an exhilarating sports anime that follows the journey of Shoyo Hinata,"      ,
+          "desc"     : "a determined volleyball player as he strives to overcome challenges and lead his team to victory.",
+        "malScore": "8.46",
+        "Aired": "Apr 6, 2014 to Sep 21, 2014",
+        "Status": " Finished Airing",
+        "Producers":" Mainichi Broadcasting System, TOHO animation, Shueisha, Production I.G, Sentai Filmworks",
+        "Trailer": "https://aniwatch.to/watch/haikyu-76?ep=1626"
+        
+      },
+      {
+        "imageUrl": "/images/Most Watched/Cowboy Bebop.jpg",
+        "imageTitle": "Cowboy Bebop",
+        "Japanese": "カウボーイビバップ",
+        "description": "It is a timeless anime, blending sci-fi and noir in a futuristic universe.",
+        "desc"       : "Join the Bebop crew on riveting bounty hunts through captivating stories and iconic visuals.",
+        "malScore": "8.77",
+        "Aired": "Apr 3, 1998 to Apr 24, 1999",
+        "Status": " Finished Airing",
+        "Producers":" Bandai Visual, Sunrise, Funimation, Bandai Entertainment",
+        "Trailer"  :"https://aniwatch.to/watch/cowboy-bebop-27?ep=849"
+      },
+      {
+        "imageUrl": "/images/Most Watched/Vinland-Saga.jpg",
+        "imageTitle": "Vinland-Saga",
+        "Japanese": "ヴィンランド・サガ",
+        "description": "It is a gripping tale of vengeance and redemption, following a young Viking warrior's," ,
+        "desc"       : "quest for revenge amidst the chaos of war and the pursuit of a legendary land called Vinland.",
+        "malScore"   : "8.73",
+        "Aired": "Jul 8, 2019 to Dec 30, 2019",
+        "Status": "Finished Airing",
+        "Producers":"Production I.G, Dentsu, Kodansha, Twin Engine, Wit Studio",
+        "Trailer": "https://aniwatch.to/watch/vinland-saga-40?ep=1134"
+      },
+      {
+        "imageUrl": "/images/Most Watched/Hajime no Ippo.jpg",
+        "imageTitle": "Hajime no Ippo",
+        "Japanese": "はじめの一歩",
+        "description": "It is a compelling sports anime depicting the journey of Ippo Makunouchi, a determined boxer,",
+        "desc"       : "who overcomes challenges, discovers his passion for the sport, and strives to become a champion.",
+        "malScore": "8.74",
+        "Aired": "Oct 4, 2000 to Mar 27, 2002",
+        "Status": " Finished Airing",
+        "Producers":"VAP, Madhouse, Discotek Media, Geneon Entertainment USA",
+        "Trailer"  :"https://aniwatch.to/watch/fighting-spirit-34?ep=971"
+      },
+      {
+        "imageUrl": "/images/Most Watched/Monster.jpg",
+        "imageTitle": "Monster",
+        "Japanese": "モンスター",
+        "description": "It is a psychological thriller anime that delves into the dark depths of human nature as Dr. Kenzo Tenma pursues a former patient, ",
+        "desc" :"who has become a notorious serial killer, unraveling a web of intrigue and moral dilemmas along the way.",
+        "malScore": "8.88",
+        "Aired": "Apr 07, 2004 to Sep 28, 2005",
+        "Status": " Finished Airing",
+        "Producers":"VAP, Nippon Television Network, Shogakukan-Shueisha Productions",
+        "Trailer" :"https://aniwave.to/watch/monster.60jp/ep-1"
+      },
+      {
+        "imageUrl": "/images/Most Watched/mob-psycho-100-anime-wallpaper-preview.jpg",
+        "imageTitle": "Mob-Psycho-100",
+        "Japanese": "モブサイコ100",
+        "description": "is a dynamic anime that follows Shigeo, Mob Kageyama, an average middle school student with extraordinary psychic powers,",
+        "desc"       : "as he navigates adolescence while working under his mentor, Arataka Reigen, to help people and discover the true meaning of strength.",
+        "malScore": "8.48",
+        "Aired": "Jul 11, 2016 to Sep 27, 2016",
+        "Status": "Finished Airing",
+        "Producers":"Warner Bros. Japan, KlockWorx, BS Fuji, Hakuhodo DY Music & Pictures, Shogakukan, Bones, Funimation, Crunchyroll",
+        "Trailer"  :"https://aniwatch.to/watch/mob-psycho-100-101?ep=3087"
+      },
+      {
+        "imageUrl": "/images/Most Watched/ouran-high-school-host-club-1574296578793-1663870537662.jpg",
+        "imageTitle": "Ouran High School Host Club",
+        "Japanese": "桜蘭高校ホスト部",
+        "description": "It is a charming romantic comedy anime following Haruhi Fujioka, a scholarship student as she navigates the whimsical world of,",
+        "desc"       : "The Ouran Host Club embracing friendship and romance amidst comedic escapades.",
+        "malScore": "8.21",
+        "Aired": "Apr 5, 2006 to Sep 27, 2006",
+        "Status": " Finished Airing",
+        "Producers":" VAP, Hakusensha, Nippon Television Network, Bones, Funimation",
+        "Trailer"  :"https://aniwatch.to/watch/ouran-high-school-host-club-294?ep=5656"
+      },
+      {
+        "imageUrl": "/images/Most Watched/trigun-1663869114240.jpg",
+        "imageTitle": "Trigun",
+        "Japanese": "トライガン",
+        "description": "It is a captivating anime that follows the enigmatic gunslinger Vash the Stampede as he roams a post-apocalyptic desert world,",
+        "desc"       : "blending action-packed gunfights with philosophical themes and a compelling narrative about redemption and the consequences of violence.",
+        "malScore": "8.24",
+        "Aired": " Apr 1, 1998 to Sep 30, 1998",
+        "Status": " Finished Airing",
+        "Producers":"Victor Entertainment, Madhouse, Funimation, Geneon Entertainment USA",
+        "Trailer"  :"https://aniwatch.to/watch/trigun-266?ep=5370"
+      },
+      {
+        "imageUrl": "/images/Most Watched/Code Geass.jpg",
+        "imageTitle": "Code Geass",
+        "Japanese": "コードギアス 反逆のルルーシュ",
+        "description": "It is a gripping mecha anime set in an alternate universe where Lelouch vi Britannia, a young prince with the power of Geass, orchestrates a rebellion against,",
+        "desc"       : "the oppressive Britannian Empire, blending political intrigue, strategic warfare, and moral dilemmas in a thrilling tale of revolution and power.",
+        "malScore": "8.9",
+        "Aired": "Oct 6, 2006 to Jul 29, 2007",
+        "Status": " Finished Airing",
+        "Producers":"Bandai Entertainment, Sony Music Entertainment, Hakuhodo DY Media Partners, Sunrise, Funimation",
+        "Trailer"  :"https://aniwatch.to/watch/code-geass-lelouch-of-the-rebellion-41?ep=1158"
+      },
+      {
+        "imageUrl": "/images/Most Watched/aot.jpg",
+        "imageTitle": "Attack On Titan",
+        "Japanese": "進撃の巨人",
+        "description": "It is a riveting anime that follows humanity's struggle for survival against giant humanoid creatures known as Titans, as protagonist Eren Yeager and his friends,",
+        "desc"       : "join the fight within the last remaining stronghold, exploring themes of sacrifice, survival, and the mystery behind the Titans' existence.",
+        "malScore": "8.52",
+        "Aired": "Apr 7, 2013 to Sep 29, 2013",
+        "Status": " Finished Airing",
+        "Producers":"Production I.G, Dentsu, Mainichi Broadcasting System, Pony Canyon, Kodansha, Mad Box, Pony Canyon Enterprise, Wit Studio, Funimation",
+        "Trailer"  :"https://aniwatch.to/watch/attack-on-titan-112?ep=3303"
+      },
+      {
+        "imageUrl": "/images/Most Watched/HxH.jpg",
+        "imageTitle": "Hunter x Hunter",
+        "Japanese": "ハンター×ハンター",
+        "description": "It is an engaging anime that follows Gon Freecss, a young boy aspiring to become a Hunter like his father, as he embarks on a perilous journey to pass the Hunter Exam,"      ,
+          "desc"     : " forging deep friendships, facing formidable challenges, and unraveling the mysteries of the Hunter world along the way.",
+        "malScore": "9.05",
+        "Aired": "Oct 2, 2011 to Sep 24, 2014",
+        "Status": " Finished Airing",
+        "Producers":"  VAP, Nippon Television Network, Shueisha, Madhouse, Viz Media",
+        "Trailer": "https://aniwatch.to/watch/hunter-x-hunter-2?ep=65"
+      },
+      {
+        "imageUrl": "/images/Most Watched/MHA.jpg", 
+        "imageTitle": "My Hero Academia",
+        "Japanese": "僕のヒーローアカデミア",
+        "description": "It is a thrilling anime set in a world of superheroes and villains, following Izuku Midoriya's journey from Quirkless underdog,"      ,
+          "desc"     : "to aspiring hero as he trains at U.A. High School, forming bonds and facing challenges to achieve his dreams.",
+        "malScore": "8.18",
+        "Aired": "Apr 3, 2016 to Jun 26, 2016",
+        "Status": " Finished Airing",
+        "Producers":" Dentsu, Mainichi Broadcasting System, Movic, TOHO animation, Shueisha, Bones, Funimation",
+        "Trailer": "https://aniwatch.to/watch/my-hero-academia-322?ep=6210"
+      },  
+      {
+        "imageUrl": "/images/Most Watched/Demon Slayer.jpg",
+        "imageTitle": "Demon Slayer: To the Swordsmith Village",
+        "Japanese": " 劇場版 鬼滅の刃 無限列車編",
+        "description": "Here Tanjiro, along with his comrades, embarks on a perilous quest aboard the Mugen Train, battling demons and,"      ,
+          "desc"     : "and facing personal challenges while seeking the truth behind mysterious disappearances.",
+        "malScore": "8.73",
+        "Aired": "Apr 9, 2023 to Jun 18, 2023",
+        "Status": " Finished Airing",
+        "Producers":"  ufotable, Aniplex of America",
+        "Trailer": "https://aniwatch.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090"
+      },
+      {
+        "imageUrl": "/images/Most Watched/fmab-01.jpg",
+        "imageTitle": "Fullmetal Alchemist: Brotherhood",
+        "Japanese": "鋼の錬金術師 ",
+        "description": "It is an epic anime that follows the journey of brothers Edward and Alphonse Elric as they seek the Philosopher's Stone,"      ,
+          "desc"     : "to restore their bodies after a failed alchemical experiment with rich world-building, complex characters, and themes of sacrifice and redemption.",
+        "malScore": "9.15",
+        "Aired": "Apr 5, 2009 to Jul 4, 2010",
+        "Status": " Finished Airing",
+        "Producers":"Aniplex, Square Enix, Mainichi Broadcasting System, Studio Moriken, Bones, Funimation, Aniplex of America",
+        "Trailer": "https://aniwatch.to/watch/fullmetal-alchemist-brotherhood-1?ep=1"
+      },
+      {
+        "imageUrl": "/images/Most Watched/Death Note.jpg",
+        "imageTitle": "Death Note",
+        "Japanese": " デスノート",
+        "description": "It is a riveting anime centered around Light Yagami, a high school student who gains a deadly power to kill by writing names in a supernatural notebook,"      ,
+          "desc"     : "sparking a high-stakes battle of wits with the mysterious detective L, exploring themes of morality and the consequences of absolute power.",
+        "malScore": "8.63",
+        "Aired": "Oct 4, 2006 to Jun 27, 2007",
+        "Status": " Finished Airing",
+        "Producers":"VAP, Konami, Ashi Production, Nippon Television Network, Shueisha, Madhouse, Viz Media",
+        "Trailer": "https://aniwatch.to/watch/death-note-60?ep=1464"
+      },
+      {
+        "imageUrl": "/images/Most Watched/JOJOASBR.jpg",
+        "imageTitle": "Jojo's Bizarre Adventure",
+        "Japanese": "ジョジョの奇妙な冒険",
+        "description": "It is an acclaimed anime series following the multi-generational Joestar family as they battle supernatural forces with unique abilities called Stands,"      ,
+          "desc"     : "featuring stylish action and inventive storytelling across multiple story arcs.",
+        "malScore": "8.10",
+        "Aired": " Oct 5, 2012, to April 5, 2013",
+        "Status": "Ongoing",
+        "Producers":"Yomiko Advertising, David Production",
+        "Trailer": "https://aniwatch.to/watch/jojos-bizarre-adventure-17864?ep=72036"
+      },
+      {
+        "imageUrl": "/images/Most Watched/op-one-piece-anime-manga-game-1000-celebration-1000-episodes.jpg",
+        "imageTitle": "One Piece",
+        "Japanese": "ワンピース",
+        "description": "It is an epic tale of Monkey D. Luffy and his pirate crew as they journey across the seas in search of the legendary treasure,"      ,
+          "desc"     : "One Piece, encountering fierce battles and forging unbreakable bonds along the way.",
+        "malScore": "8.62",
+        "Aired": "Oct 20, 1999 to _",
+        "Status": "Ongoing",
+        "Producers":"Fuji TV, TAP, Shueisha, Toei Animation, Funimation, 4Kids Entertainment",
+        "Trailer": "https://aniwatch.to/watch/one-piece-100?ep=2142"
+      },
+      {
+        "imageUrl": "/images/Most Watched/Dragon Ball Z.jpg",
+        "imageTitle": "Dragon Ball Z",
+        "Japanese": "ドラゴンボールZ",
+        "description": "It is an iconic anime that continues the adventures of Goku as he defends Earth against powerful foes, featuring intense battles,"      ,
+          "desc"     : "superhuman abilities, and a story of growth and friendship spanning multiple sagas.",
+        "malScore": "8.18",
+        "Aired": "Apr 26, 1989 to Jan 31, 1996",
+        "Status": " Finished Airing",
+        "Producers":" Fuji TV, Toei Animation, Funimation",
+        "Trailer": "https://aniwatch.to/watch/dragon-ball-z-325?ep=7230"
+      }
+    ]
+  },
+  {
+    "title": "Slice Of Life Anime",
+    "images": [
+      {
+        "imageUrl": "/images/slice of life images/april.jpg",
+        "imageTitle": "Your Lie in April"
+      },
+      {
+        "imageUrl": "/images/slice of life images/Fruits-Basket-Anime-1.jpg",
+        "imageTitle": "Fruits Basket"
+      },
+      {
+        "imageUrl": "/images/slice of life images/Violet.jpg",
+        "imageTitle": "Violet Evergarden"
+      },
+      {
+        "imageUrl": "/images/slice of life images/coe.jpe",
+        "imageTitle": "Classroom of the Elite"
+      },
+      {
+        "imageUrl": "/images/slice of life images/tsuki.jpe",
+        "imageTitle": "Tsuki ga Kirei"
+      },
+      {
+        "imageUrl": "/images/slice of life images/komi.jpg",
+        "imageTitle": "Komi Can't Communicate"
+      },
+      {
+        "imageUrl": "/images/slice of life images/h.jpg",
+        "imageTitle": "Hyouka"
+      },
+      {
+        "imageUrl": "/images/slice of life images/horimiya.jpg",
+        "imageTitle": "Horimiya"
+      },
+      {
+        "imageUrl": "/images/slice of life images/takagi.jpg",
+        "imageTitle": "Takagi"
+      },
+      {
+        "imageUrl": "/images/slice of life images/darling in the franxx.jpg",
+        "imageTitle": "Darling in the Franxx"
+      },
+      {
+        "imageUrl": "/images/slice of life images/food wars.jpe",
+        "imageTitle": "Food Wars!"
+      },
+      {
+        "imageUrl": "/images/slice of life images/saiki k.jpg",
+        "imageTitle": "The Disastrous Life of Saiki K."
+      },
+      {
+        "imageUrl": "/images/slice of life images/free.jpg",
+        "imageTitle": "Free!"
+      },
+      {
+        "imageUrl": "/images/slice of life images/houseband.jpg",
+        "imageTitle": "Houseband"
+      },
+      {
+        "imageUrl": "/images/slice of life images/tamako.jpg",
+        "imageTitle": "Tamako Market"
+      },
+      {
+        "imageUrl": "/images/slice of life images/tora.jpg",
+        "imageTitle": "Toradora!"
+      }
+    ]
+  },
+  {
+    "title": "Isekai Anime",
+    "images": [
+      {
+        "imageUrl": "/images/isekai/sword.jpg",
+        "imageTitle": "Sword Art Online"
+      },
+      {
+        "imageUrl": "/images/isekai/fate.jpg",
+        "imageTitle": "Fate"
+      },
+      {
+        "imageUrl": "/images/isekai/re zero.jpg",
+        "imageTitle": "Re:Zero "
+      },
+      {
+        "imageUrl": "/images/isekai/i got a cheat skill.jpg",
+        "imageTitle": "I Got a Cheat Skill in Another World"
+      },
+      {
+        "imageUrl": "/images/isekai/no game no life.jpg",
+        "imageTitle": "No Game, No Life"
+      },
+      {
+        "imageUrl": "/images/isekai/shadow.jpg",
+        "imageTitle": "The Eminence in Shadow"
+      },
+      {
+        "imageUrl": "/images/isekai/tensei.jpg",
+        "imageTitle": "Mushoku Tensei"
+      },
+      {
+        "imageUrl": "/images/isekai/slime-isekai-memories.jpg",
+        "imageTitle": "That Time I Got Reincarnated As A Slime"
+      },
+      {
+        "imageUrl": "/images/isekai/Kono-Subarashii-Sekai-Ni-Syukufuku-Woi.jpg",
+        "imageTitle": "KonoSuba!"
+      },
+      {
+        "imageUrl": "/images/isekai/iwatani-naofumi-raphtalia-anime-sword-shield-hd-wallpaper-preview.jpg",
+        "imageTitle": "The Rising Of The Shield Hero"
+      },
+      {
+        "imageUrl": "/images/isekai/overlord.jpg",
+        "imageTitle": "Overlord"
+      },
+      {
+        "imageUrl": "/images/isekai/Danmachi-Battle-Chronicle_04-19-23.jpg",
+        "imageTitle": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+      },
+      {
+        "imageUrl": "/images/isekai/siteheader_trapped_dating_simM_864x300.jpg",
+        "imageTitle": "Trapped in a Dating Sim"
+      },
+      {
+        "imageUrl": "/images/isekai/Death March to the Parallel World Rhapsody.jpg",
+        "imageTitle": "Death March to the Parallel World Rhapsody"
+      },
+      {
+        "imageUrl": "/images/isekai/devil.jpg",
+        "imageTitle": "The Devil is a Part-Timer!"
+      },
+      {
+        "imageUrl": "/images/isekai/Summoned to Another World for a Second Time.jpg",
+        "imageTitle": "Summoned to Another World for a Second Time"
+      },
+      {
+        "imageUrl": "/images/isekai/redo.jpg",
+        "imageTitle": "Redo Of Healer"
+      }
+    ]
+  },
+  {
+    "title": "Comedy Anime",
+    "images": [
+      {
+        "imageUrl": "/images/comedy anime/Grand Blue.jpg",
+        "imageTitle": "Grand Blue"
+      },
+      {
+        "imageUrl": "/images/comedy anime/gintama.jpg",
+        "imageTitle": "Gintama"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Anime_KaguyaSamaS3FI-1.jpg",
+        "imageTitle": "Kaguya-sama: Love Is War "
+      },
+      {
+        "imageUrl": "/images/comedy anime/daily-lives-of-high-school-boys-slip-case.jpg",
+        "imageTitle": "Daily Lives of High School Boys"
+      },
+      {
+        "imageUrl": "/images/comedy anime/The Eminence in Shadow.jpg",
+        "imageTitle": "The Eminence in Shadow"
+      },
+      {
+        "imageUrl": "/images/comedy anime/SPYFAMILY.jpg",
+        "imageTitle": "Spy X Family"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Noragami.jpg",
+        "imageTitle": "Noragami"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Maid Sama!.jpg",
+        "imageTitle": "Maid Sama!"
+      },
+      {
+        "imageUrl": "/images/comedy anime/School Babysitters.jpe",
+        "imageTitle": "School Babysitters"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Haikyuu.jpg",
+        "imageTitle": "Haikyuu!!"
+      },
+      {
+        "imageUrl": "/images/comedy anime/my-dress-up-darling-.jpg",
+        "imageTitle": "My Dress-Up Darling"
+      },
+      {
+        "imageUrl": "/images/comedy anime/The Daily Life of the Immortal King.jpe",
+        "imageTitle": "The Daily Life of the Immortal King"
+      },
+      {
+        "imageUrl": "/images/comedy anime/The Devil is a Part-Timer!.jpg",
+        "imageTitle": "The Devil is a Part-Timer!"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Buddy Daddies.jpg",
+        "imageTitle": "Buddy Daddies"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Heaven-Officials-Blessing.jpg",
+        "imageTitle": "Heaven Official's Blessing"
+      },
+      {
+        "imageUrl": "/images/comedy anime/The Great Pretender.jpg",
+        "imageTitle": "Great Pretender"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Love, Chunibyo and Other Delusions!.jpg",
+        "imageTitle": "Love, Chunibyo & Other Delusions"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Nichijou.jpg",
+        "imageTitle": "Nichijou"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Haven't You Heard I'm Sakamoto.jpe",
+        "imageTitle": "Haven't You Heard? I'm Sakamoto"
+      },
+      {
+        "imageUrl": "/images/comedy anime/Bakemonogatari.jpg",
+        "imageTitle": "Bakemonogatari"
+      }
+    ]
+  },
+  {
+    "title": "Anime Movies",
+    "images": [
+      {
+        "imageUrl": "/images/Anime Movies/A Silent Voice.jpg",
+        "imageTitle": "A Silent Voice"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/the garden of words.jpg",
+        "imageTitle": "The Garden of Words"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/Violet-Evergarden-Watch-Order-2022.jpg",
+        "imageTitle": "Violet Evergarden: The Movie"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/your name.jpeg",
+        "imageTitle": "Your Name."
+      },
+      {
+        "imageUrl": "/images/Anime Movies/A Whisker Away.jpg",
+        "imageTitle": "A Whisker Away"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/bubble anime.jpg",
+        "imageTitle": "Bubble"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/Flavors of Youth.jpg",
+        "imageTitle": "Flavors of Youth"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/Drifting Home.jpg",
+        "imageTitle": "Drifting Home"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/Jujutsu Kaisen 0.jpg",
+        "imageTitle": "Jujutsu Kaisen 0"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/ak.jpg",
+        "imageTitle": "The Last: Naruto the Movie",
+        "Japanese": "ザ・ラスト -ナルト・ザ・ムービー-",
+        "description": "It concludes the Naruto series with a thrilling tale of love and sacrifice as Naruto embarks on a mission to save Hinata,"      ,
+          "desc"     : "and the world from a celestial threat, blending action and emotion for a satisfying conclusion.",
+        "malScore": "7.77",
+        "Aired": "Dec 6, 2014",
+        "Status": " Finished Airing",
+        "Producers":"TV Tokyo, Shueisha, Studio Pierrot, Viz Media",
+        "Trailer": "https://aniwatch.to/watch/the-last-naruto-the-movie-882?ep=57995"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/Spirited Away.jpg",
+        "imageTitle": "Spirited Away"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/My Neighbor Totoro.jpg",
+        "imageTitle": "My Neighbor Totoro"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/Whisper of the Heart.jpg",
+        "imageTitle": "Whisper of the Heart"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/Only Yesterday.jpg",
+        "imageTitle": "Only Yesterday"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/The Wind Rises.jpg",
+        "imageTitle": "The Wind Rises"
+      },
+      {
+        "imageUrl": "/images/Anime Movies/After the Rain.jpg",
+        "imageTitle": "After the Rain"
+      }
+    ]
+  },
+  {
+    "title": "Ecchi Anime",
+    "ageLimit": "18+",
+    "images": [
+      {
+        "imageUrl": "/images/Ecchi/Date A Live.jpg",
+        "imageTitle": "Date A Live"
+      },
+      {
+        "imageUrl": "/images/Ecchi/The Testament of Sister New Devil.jpg",
+        "imageTitle": "The Testament of Sister New Devil"
+      },
+      {
+        "imageUrl": "/images/Ecchi/Kill la Kill.jpg",
+        "imageTitle": "Kill la Kill"
+      },
+      {
+        "imageUrl": "/images/Ecchi/High School DxD.jpg",
+        "imageTitle": "High School DxD"
+      },
+      {
+        "imageUrl": "/images/Ecchi/The Quintessential Quintuplets.jpg",
+        "imageTitle": "The Quintessential Quintuplets"
+      },
+      {
+        "imageUrl": "/images/Ecchi/Heaven's Lost Property.jpg",
+        "imageTitle": "Heaven's Lost Property"
+      },
+      {
+        "imageUrl": "/images/Ecchi/Highschool of the Dead.jpg",
+        "imageTitle": "Highschool of the Dead"
+      },
+      {
+        "imageUrl": "/images/Ecchi/Prison School.jpg",
+        "imageTitle": "Prison School"
+      },
+      {
+        "imageUrl": "/images/Ecchi/My First Girlfriend Is a Gal.jpg",
+        "imageTitle": "My First Girlfriend Is a Gal"
+      },
+      {
+        "imageUrl": "/images/Ecchi/Plunderer.jpg",
+        "imageTitle": "Plunderer"
+      },
+      {
+        "imageUrl": "/images/Ecchi/Sekirei.jpg",
+        "imageTitle": "Sekirei"
+      },
+      {
+        "imageUrl": "/images/Ecchi/how not to summon a demon lord.jpe",
+        "imageTitle": "How Not to Summon a Demon Lord"
+      },
+      {
+        "imageUrl": "/images/Ecchi/MON.jpg",
+        "imageTitle": "Monster Musume"
+      },
+      {
+        "imageUrl": "/images/Ecchi/Trinity Seven.jpg",
+        "imageTitle": "Trinity Seven"
+      },
+      {
+        "imageUrl": "/images/Ecchi/Vermeil In Gold.jpg",
+        "imageTitle": "Vermeil in Gold"
+      },
+      {
+        "imageUrl": "/images/Ecchi/World's End Harem.jpg",
+        "imageTitle": "World's End Harem"
+      },
+      {
+        "imageUrl": "/images/Ecchi/why-the-hell-are-you-here-teacher_WHT_01_KEY_1200x450_02.jpg",
+        "imageTitle": "Why the Hell are You Here, Teacher!?"
+      }
+    ]
+  }
+]

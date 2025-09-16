@@ -1,0 +1,39 @@
+<div>
+    <!-- Display the title dynamically using AngularJS -->
+    <h2>{{title}}</h2>
+  
+    <form name="myForm" novalidate>
+        <table class="data"> 
+            <tr>
+                <!-- Display an inquiry message with aqua color -->
+                <td colspan="5">
+                    <p style="color: aqua;"><h4>Please submit your enquiry using the form below and we will get in touch with you shortly<br>for contacting us use this email: <a href="animegojo@gmail.com">animegojo@gmail.com</h4></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <!-- Input field for the subject with a placeholder -->
+                    <input type="text" style="color: aliceblue;box-sizing: content-box;" ng-model="info2" placeholder="Subject" class="form-control" my-custom-validation required>
+                    <!-- Display a message below the button with blue color -->
+                    <p style="color: rgb(21, 148, 211);" align="center">{{displayedStatement}}</p>
+                    <!-- Display the error message in red when subject is not filled -->
+                    <span class="error-message" style="color: red;" ng-show="myForm.info2.$dirty && myForm.info2.$touched && myForm.info2.$error.customValidation">Please fill out the Subject field.</span>
+                    <br>
+                </td>
+                <td>&nbsp;&nbsp;</td>
+                <td>
+                    <!-- Textarea for user's message -->
+                    <textarea placeholder="Message" ng-model="info3" style="color: aliceblue;" class="form-control" cols="35" rows="5"></textarea>
+                </td>
+                <td>&nbsp;&nbsp;</td>
+                <td>
+                    <!-- Button to send the form data and call the displayStatement() function -->
+                    <button class="button-submit" ng-click="submitForm()" ng-disabled="myForm.$invalid">Send</button>
+                    <!-- Button to reset the form and call the reset() function -->
+                    <button class="button-submit1" ng-click="reset()">Reset</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+  </div>
+  

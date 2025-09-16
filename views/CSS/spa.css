@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: orange;
+}
+
+.about{
+    font-size: 22px;
+    text-align: center; 
+    font-weight: 400;
+    color: orange;
+    margin-bottom: 21px;
+}
+
+ul,
+li {
+    font-size: 16px;
+    text-align: justify;
+    font-weight: 400;
+    color: #000;
+}
+
+.data {
+    min-height: 208px;
+    background-color: #101010;
+    padding: 7px 50px 0px 14px;
+    box-shadow: 0px 0px 19px 5px white;
+}
+
+td {
+    padding: 7px 40px 0px 20px;
+    margin-bottom: 20px;
+}
+
+
+.form-control {
+    background-color: transparent;
+    box-shadow: 0px 0px 19px -9px #8a8a8a;
+    
+}
+
+.button-submit {
+    border: none;
+    background: red;
+    padding: 4px 29px;
+    color: #131212;
+}
+
+.button-submit1 {
+    border: none;
+    background:red;
+    padding: 6px 20px;
+    color:#131212;
+   
+}
+
+

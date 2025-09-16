@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Black background */
+    color: rgb(255, 145, 0); 
+}
+
+.subscription-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+.subscription-package {
+    background-color: rgb(255, 145, 0); /* Orange background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #000; /* Black text color */
+    margin: 10px;
+    height: 250px;
+    width: 200px; /* Set the width of the package container */
+}
+
+.package-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.package-price {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.package-features ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.package-features li {
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: #000; /* Black button background */
+    color: #ff6600; /* Orange button text color */
+    border: none;
+    padding: 5px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+}
+.flag{
+    color:rgb(255, 145, 0);
+    margin-bottom: 25px;
+}
+.form{
+  background: transparent;
+  margin-right: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.form-field {
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    line-height: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: inherit;
+    border-radius: 6px;
+    color: var(--input-color);
+    border: 1px solid var(--input-border);
+    background: var(--input-background);
+    transition: border .3s ease;
+    &:focus {
+        outline: none;
+        border-color: var(--input-border-focus);
+    }
+}
+.plan-field{
+   background-color: transparent;
+   border-color:white;
+   color: rgb(255, 145, 0);
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: inherit;
+    margin-top: 15px;
+}
+.date-field{
+    background-color: transparent;
+  border-color: white;
+    color: rgb(255, 145, 0);
+    width: 50%;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-family: inherit;
+}
+.button-field{
+    background-color: #000;
+    color: rgb(255, 145, 0);
+    border-color: white;
+    border-style: dotted;
+}
